@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+
 👨🏻‍💻 I'm a first year PhD student in Economics at the University of Cologne.
 
 🔬 My research interests are in Sports Economics, Urban Economics, and Applied Microeconometrics!
