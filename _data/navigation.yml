@@ -7,14 +7,14 @@
 main:
 
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #  url: /research/
 
-  - title: "Media"
-    url: /media/    
+  #- title: "Media"
+  #  url: /media/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
