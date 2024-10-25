@@ -22,5 +22,5 @@ redirect_from:
 Feel free to reach out to exchange ideas about future research projects in the field :)
 
 # 📚 Teaching
-I currently teach a project course for bachelor students in Economics: \textit{Empirical Replications in Sports Economics}. The aim of the class is to introduce students to the field of sports economics and become familiar with the underpinnings of conducting empirical research in Economics by replicating selected papers in R. 
+I currently teach a project course for bachelor students in Economics: Empirical Replications in Sports Economics. The aim of the class is to introduce students to the field of sports economics and become familiar with the underpinnings of conducting empirical research in Economics by replicating selected papers in R. 
 
